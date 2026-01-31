@@ -1,2 +1,2 @@
 # Projects
-Power Elctronics &amp; Control System
+Power Electronics &amp; Control System
